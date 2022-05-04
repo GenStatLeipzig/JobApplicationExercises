@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Other stuff
+ExerciseGenetics/SolutionJanne.Rmd
+ExerciseGenetics/SolutionJanne.html
+
+  
