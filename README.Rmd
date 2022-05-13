@@ -27,6 +27,6 @@ The exercises are given both as .Rmd and .pdf files. You are free to use the .Rm
 
 For the genetic exercise, no additional packages are required. We recommend the package *deSolve* for the modelling exercise. 
 
-Please sent your solutions (e.g. R code, generated output) back per mail to Markus Scholz (markus.scholz@imise.uni-leipzig.de) with reference "Job Application - Solution [Genetics or Modelling or both] - [Name]". The solutions will be part of our application documents. 
+Please send your solutions (e.g. R code, generated output) back per mail to Markus Scholz (markus.scholz@imise.uni-leipzig.de) with reference "Job Application - Solution [Genetics or Modelling or both] - [Name]". The solutions will be part of our application documents. 
 
 Please prepare a short presentation of your code and results for the interview (max. 10 minutes). 
