@@ -27,7 +27,7 @@ exercise(s) in your own github / R environment.
 For the genetic exercise, no additional packages are required. We
 recommend the package *deSolve* for the modelling exercise.
 
-Please sent your solutions (e.g. R code, generated output) back per mail
+Please send your solutions (e.g. R code, generated output) back per mail
 to Markus Scholz (<markus.scholz@imise.uni-leipzig.de>) with reference
 “Job Application - Solution \[Genetics or Modelling or both\] -
 \[Name\]”. The solutions will be part of our application documents.
