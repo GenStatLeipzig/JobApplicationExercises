@@ -20,7 +20,7 @@ Implement the following epidemiologic SIR model (S=Susceptible, I=Infected, R=Re
 \notag \\
 \frac{dI}{dt} &= \alpha S I - \beta I \notag \\
 \notag \\
-\frac{dR}{dt} &= - \beta I \notag 
+\frac{dR}{dt} &= \beta I \notag 
 \end{align}
 
 with the parameters $\alpha=0.2$ and $\beta=0.03$ and the initial conditions $S(0)=0.99$, $I(0)=0.01$, and $R(0)=0$. 
